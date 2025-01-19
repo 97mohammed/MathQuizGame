@@ -14,11 +14,6 @@ MathQuizGame is a fun and educational program designed to help users improve the
 - Instant feedback on answers
 - Display final score with results
 
-## Prerequisites
-
-Before you begin, ensure you have met the following requirements:
-- A C++ compiler (e.g., GCC, Clang, MSVC)
-- Basic understanding of C++ syntax and programming concepts
 
 ## Installation
 
